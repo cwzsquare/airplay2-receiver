@@ -141,3 +141,5 @@ Tested on Python 3.7.5 / macOS 10.15.2 with iPhone X 13.3 and Raspberry Pi 4
 
 https://emanuelecozzi.net/docs/airplay2
 
+### My plan
+调用potplayer播放而非pyaudio
